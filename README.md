@@ -1,5 +1,5 @@
 
-# [Anand Roy](https://teshank.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# [Anand Roy] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👋 Hi, I am a React developer, specializing in building robust and scalable applications. Deep expertise in React's core principles, utilizing the latest industry trends and best practices. Proficient in front-end technologies (HTML, CSS, JavaScript) to create visually stunning and highly functional user interfaces. Skilled in collaborating within cross-functional teams, driving projects forward with strong communication and problem-solving abilities. Proficient in React, and Redux with experience in testing frameworks (Jest, Enzyme) and integrating with RESTful APIs. Adept at version control systems (Git) and modern JavaScript tools (Webpack, Babel, Vercel). Seeking new challenges to contribute expertise and make an impact. Let's connect! 🤝
 
